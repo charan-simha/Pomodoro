@@ -1,3 +1,2 @@
-console.log('Hello World');
-let x=30;
-console.log(x);
+let name="Charan Simha";
+console.log(`Hi! My name is ${name}`);
